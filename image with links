@@ -1,0 +1,55 @@
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linkedin Profiles</title>
+    <style>
+        body {
+            font-family: impact;
+            margin: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: rgb(240, 7, 7);
+            font-size: 30px;
+        }
+        .profile {
+            display: inline-block;
+            margin: 50px;
+        }
+        img {
+            width: 200px;
+            height: 200px;
+            border-radius: 100%;
+            border: 2px solid #04bae8;
+        }
+        a {
+            text-decoration: none;
+            color: #df09b0;
+            font-size: 20px;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Profile Links</h1>
+
+    <div class="profile">
+        <a href="/home/vitcse/Downloads/my-link-785328290.html" target="_blank">
+            <img src="/home/vitcse/Downloads/kana.jpg" alt="kana image">
+        </a>
+        <p><a href="/home/vitcse/Downloads/my-link-785328290.html" target="_blank">Yagna's Profile</a></p>
+    </div>
+
+    <div class="profile">
+        <a href="/home/vitcse/Downloads/frd-link.html" target="_blank">
+            <img src="/home/vitcse/Downloads/flower.jpg" alt="Friend's Image">
+        </a>
+        <p><a href="/home/vitcse/Downloads/frd-link.html" target="_blank">Ritu's Profile</a></p>
+    </div>
+
+</body>
+</html>
