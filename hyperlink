@@ -19,6 +19,6 @@ destination. The target attribute determines how the link is opened.</p>
   </body>
   <body>
       <h2>Open link in Full Window</h2>
-      <p>visit<a href="BBC News">Example</a>in the parent frame.</p>
+      <p>visit<a href="BBC News">BBC News</a>in the parent frame.</p>
   </body
 </html>
